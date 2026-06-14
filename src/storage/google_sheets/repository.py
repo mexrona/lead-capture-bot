@@ -1,7 +1,7 @@
 import asyncio
 import logging
 from functools import partial
-from uuid import uuid4
+from uuid import UUID
 
 import gspread
 from google.oauth2.service_account import Credentials
